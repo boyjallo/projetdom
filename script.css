@@ -1,0 +1,36 @@
+body{
+	background-color: burlywood;
+}
+.image{
+	border-radius: 2rem;
+}
+#total{
+	color: white;
+}
+#qty{
+	font-size: 15px;
+	width: 15px;
+	margin: 0 25px;
+	padding: 0 10px;
+}
+.del a{
+	color: red;
+	padding: 0 20px;
+	text-decoration: none;
+}
+#heart{
+	font-size: 40px;
+	color: black;
+}
+.btn{
+	 border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: black;
